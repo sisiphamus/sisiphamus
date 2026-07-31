@@ -1,8 +1,8 @@
 ### Adam Towner
 
-I build tools that run on your machine and agents that do real work. If a product needs your data to feel smart, I lose interest.
+Building the future of agents and interfaces. Local tools preferred.
 
-Currently shipping agents and interfaces (Codene / Pangea), plus small public tools when something annoys me enough.
+I ship small public tools when something annoys me enough, and bigger systems when the problem is worth it (Codene / Pangea).
 
 **Recent public work**
 - [linkedin-ai-blocker](https://github.com/sisiphamus/linkedin-ai-blocker) - free Chrome extension that blurs LinkedIn media marked AI-generated via Content Credentials (local only)
