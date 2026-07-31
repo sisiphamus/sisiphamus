@@ -1,8 +1,7 @@
 ### Adam Towner
 
-Building the future of agents and interfaces. Local tools preferred.
-
-I ship small public tools when something annoys me enough, and bigger systems when the problem is worth it (Codene / Pangea).
+end wasted human potential  
+i like the future
 
 **Recent public work**
 - [linkedin-ai-blocker](https://github.com/sisiphamus/linkedin-ai-blocker) - free Chrome extension that blurs LinkedIn media marked AI-generated via Content Credentials (local only)
