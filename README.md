@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/poster-loop3.gif" alt="How Bad Do You Want to Win. Large engraving of a winged figure resting her head on her hand, shattering, slicing and snapping back in red on a slow loop." width="100%">
+  <img src="assets/poster-loop4.gif" alt="How Bad Do You Want to Win. Large engraving of a winged figure resting her head on her hand, shattering, slicing and snapping back in red on a slow loop." width="100%">
 </p>
 
 <p align="center">
