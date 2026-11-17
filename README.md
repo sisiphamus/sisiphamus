@@ -1,8 +1,5 @@
 # Adam Towner
 
-end wasted human potential  
-i like the future
-
 <p align="center">
   <img src="assets/poster.jpg" alt="Poster: end wasted human POTENTIAL. An engraving of a figure resting her head on her hand, tools unused around her. i like the future." width="620">
 </p>
