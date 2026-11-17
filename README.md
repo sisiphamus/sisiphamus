@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://habit.glass/">Habit</a> &nbsp;·&nbsp;
   <a href="https://sisiphamus.github.io/ricecraft/">RiceCraft</a> &nbsp;·&nbsp;
   <a href="https://sisiphamus.github.io/dronebench/">DroneBench</a> &nbsp;·&nbsp;
-  <a href="https://sisiphamus.github.io/how-many-left/">How Many Left</a> &nbsp;·&nbsp;
   <a href="https://adam-does-stuf.pages.dev/">Site</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adam-the-towner/">LinkedIn</a>
 </p>
