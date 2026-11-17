@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/poster.jpg" alt="How Bad Do You Want to Win. Poster: giant WANT TO WIN lettering over an engraving of a winged figure resting her head on her hand, her tools unused around her." width="100%">
+  <img src="assets/poster-win.jpg" alt="How Bad Do You Want to Win. Poster: giant WANT TO WIN lettering over an engraving of a winged figure resting her head on her hand, her tools unused around her." width="100%">
 </p>
 
 <p align="center">
