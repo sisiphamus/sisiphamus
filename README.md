@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/poster-win2.jpg" alt="How Bad Do You Want to Win. Poster: giant WANT TO WIN lettering over an engraving of a winged figure resting her head on her hand, her tools unused around her." width="100%">
+  <img src="assets/poster-win3.jpg" alt="How Bad Do You Want to Win. Japanese-style poster: giant red kanji 勝 (win), bold lettering, an engraving of a winged figure resting her head on her hand." width="100%">
 </p>
 
 <p align="center">
